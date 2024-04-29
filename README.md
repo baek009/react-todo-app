@@ -1151,7 +1151,7 @@ const person = {
 say : function () {}
 } ;
 const 인스턴스 = new person.say();
-// 메소드 축약형
+// 메소드 축약형`
 const person = {
 say  ( ) { }
 } ;
@@ -1166,4 +1166,3 @@ Object.create 함수 문법
 # 카카오 브레인 블로그 사이트
 - 반드시 저작권을 밝혀야 한다.
 - 첫 화면만 연습 하면 됩니다.(첫 화면이 가장 난이도가 높다.)
-- 
